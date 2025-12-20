@@ -5,7 +5,7 @@ href="https:linkedin.com/in/kiara-wilford/">Data Analyst</a>
 <h2>📊Data Analytics Projects:</h2>
 
 - <b>💾SQL Project</b>
-  - [Demonstrating SQL Techniques]( https://github.com/kiwilford2/kiwilford2)
+  - [Demonstrating SQL Techniques](https://github.com/kiwilford2/SQL-Techniques/blob/main/README.md)
 
 <h2>📚Certifications:</h2>
 
