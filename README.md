@@ -1,4 +1,4 @@
-<h1>Hi, I'm Kiara! <br/><a 
+<h1>Hi, I'm Kiara W.! <br/><a 
 href="https:linkedin.com/in/kiara-wilford/">Data Analyst</a>
 </h1>
 
