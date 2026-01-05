@@ -1,12 +1,14 @@
-<h1>Hi, I'm Kiara W.! <br/><a 
+<h1>Hi, I'm Kiara! <br/><a 
 href="https:linkedin.com/in/kiara-wilford/">Data Analyst</a>
 </h1>
 
 <h2>📊Data Analytics Projects:</h2>
 
-- <b>💾SQL Project</b>
+- <b>💾SQL Projects</b>
 
   - [Demonstrating SQL Techniques](https://github.com/kiwilford2/SQL-Techniques/blob/main/README.md)
+ 
+  - [Demonstrating Complex SQL Techniques](https://github.com/kiwilford2/Advanced-SQL-Project)
 
 <h2>📚Certifications:</h2>
 
